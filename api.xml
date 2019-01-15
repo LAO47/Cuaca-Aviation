@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<udaraBMKG>
+<name>Cuaca Aviasi </name>
+<cuaca_aviasi>
+    <id>1</id>
+	<bandara>SOEKARNO-HATTA</bandara>
+	<kode_icao>WIII</kode_icao>
+	<latitude>-6.12059</latitude>
+	<longitude>106.661</longitude>
+    <waktu>13:18:51</waktu>
+    <cuaca>Badai</cuaca>
+    <suhu>21.4</suhu>
+    <visibility>9.6</visibility>
+    <kecepatan_angin>18.5</kecepatan_angin>
+    <arah_angin>Tenggara</arah_angin>
+</cuaca_aviasi>
+
+<cuaca_aviasi>
+    <id>2</id>
+	<bandara>SULTAN TAHA</bandara>
+	<kode_icao>WIJJ</kode_icao>
+	<latitude>-1.6362</latitude>
+	<longitude>103.644</longitude>
+    <waktu>21:23:21</waktu>
+    <cuaca>Berawan</cuaca>
+    <suhu>28.6</suhu>
+    <visibility>10</visibility>
+    <kecepatan_angin>15.6</kecepatan_angin>
+    <arah_angin>Barat</arah_angin>
+</cuaca_aviasi>
+
+<cuaca_aviasi>
+    <id>3</id>
+	<bandara>HALIM PERDANAKUSUMA</bandara>
+	<kode_icao>WIHH</kode_icao>
+	<latitude>-6.2666</latitude>
+	<longitude>106.891</longitude>
+    <waktu>06:22:41</waktu>
+    <cuaca>Cerah</cuaca>
+    <suhu>31.2</suhu>
+    <visibility>10</visibility>
+    <kecepatan_angin>17.5</kecepatan_angin>
+    <arah_angin>Barat</arah_angin>
+</cuaca_aviasi>
+
+<cuaca_aviasi>
+    <id>4</id>
+	<bandara>KUALA NAMU</bandara>
+	<kode_icao>WIMM</kode_icao>
+	<latitude>3.635</latitude>
+	<longitude>98.8791</longitude>
+    <waktu>16:23:11</waktu>
+    <cuaca>Cerah</cuaca>
+    <suhu>28.6</suhu>
+    <visibility>10.5</visibility>
+    <kecepatan_angin>16.6</kecepatan_angin>
+    <arah_angin>Timur</arah_angin>
+</cuaca_aviasi>
+
+<cuaca_aviasi>
+    <id>5</id>
+	<bandara>NGURAH RAI</bandara>
+	<kode_icao>WADD</kode_icao>
+	<latitude>-8.7442</latitude>
+	<longitude>115.168</longitude>
+    <waktu>10:45:55</waktu>
+    <cuaca>Hujan</cuaca>
+    <suhu>24.4</suhu>
+    <visibility>7.6</visibility>
+    <kecepatan_angin>19.4</kecepatan_angin>
+    <arah_angin>Selatan</arah_angin>
+</cuaca_aviasi>
+
+<cuaca_aviasi>
+    <id>6</id>
+	<bandara>ADISUTJIPTO</bandara>
+	<kode_icao>WAHH</kode_icao>
+	<latitude>-7.78541</latitude>
+	<longitude>110.437</longitude>
+    <waktu>09:34:47</waktu>
+    <cuaca>Berawan</cuaca>
+    <suhu>27.5</suhu>
+    <visibility>8.7</visibility>
+    <kecepatan_angin>16.7</kecepatan_angin>
+    <arah_angin>Barat Daya</arah_angin>
+</cuaca_aviasi>
+
+<cuaca_aviasi>
+    <id>7</id>
+	<bandara>SENTANI</bandara>
+	<kode_icao>WAJJ</kode_icao>
+	<latitude>-2.56989</latitude>
+	<longitude>140.503</longitude>
+    <waktu>04:39:12</waktu>
+    <cuaca>Cerah</cuaca>
+    <suhu>22.4</suhu>
+    <visibility>7.5</visibility>
+    <kecepatan_angin>18.3</kecepatan_angin>
+    <arah_angin>Utara</arah_angin>
+</cuaca_aviasi>
+
+<cuaca_aviasi>
+    <id>8</id>
+	<bandara>SEPINGGAN</bandara>
+	<kode_icao>WALL</kode_icao>
+	<latitude>-1.26827</latitude>
+	<longitude>116.894</longitude>
+    <waktu>19:39:33</waktu>
+    <cuaca>Guntur-Hujan</cuaca>
+    <suhu>21.5</suhu>
+    <visibility>4.2</visibility>
+    <kecepatan_angin>24.5</kecepatan_angin>
+    <arah_angin>Timur</arah_angin>
+</cuaca_aviasi>
+
+<cuaca_aviasi>
+    <id>9</id>
+	<bandara>SAM RATULANGI</bandara>
+	<kode_icao>WAMM</kode_icao>
+	<latitude>1.54283</latitude>
+	<longitude>124.922</longitude>
+    <waktu>12:06:45</waktu>
+    <cuaca>Hujan Ringan</cuaca>
+    <suhu>24.4</suhu>
+    <visibility>6.5</visibility>
+    <kecepatan_angin>19.3</kecepatan_angin>
+    <arah_angin>Selatan</arah_angin>
+</cuaca_aviasi>
+
+<cuaca_aviasi>
+    <id>10</id>
+	<bandara>AHMAD YANI</bandara>
+	<kode_icao>WAHS</kode_icao>
+	<latitude>-6.97871</latitude>
+	<longitude>110.379</longitude>
+    <waktu>07:11:23</waktu>
+    <cuaca>Cerah</cuaca>
+    <suhu>26.7</suhu>
+    <visibility>10</visibility>
+    <kecepatan_angin>16.5</kecepatan_angin>
+    <arah_angin>NULL</arah_angin>
+</cuaca_aviasi>
+
+</udaraBMKG>
+
